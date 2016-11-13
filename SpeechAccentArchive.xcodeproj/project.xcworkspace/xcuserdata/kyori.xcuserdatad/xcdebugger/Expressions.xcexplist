@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "VideoViewController.viewDidLoad() -&gt; ():VideoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "testButton[0].layer.position">
+            </PersistentString>
+            <PersistentString
+               value = "testButton[0].frame">
+            </PersistentString>
+            <PersistentString
+               value = "time">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PracticeViewController.tableView(UITableView, didSelectRowAtIndexPath : NSIndexPath) -&gt; ():PracticeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.length">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "in">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PracticeViewController.viewDidLoad() -&gt; ():PracticeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "conversionButton.action">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VideoViewController.onTest(UIButton) -&gt; ():VideoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "time">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CheckIPAViewController.viewDidLoad() -&gt; ():CheckIPAViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
